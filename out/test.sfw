@@ -1,0 +1,3 @@
+for each i in 10 do
+  debug.log(string.join("Hello World times ", i))
+end
